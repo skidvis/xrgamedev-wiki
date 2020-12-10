@@ -2,14 +2,15 @@
 title: Introduction
 description: Why are we here?
 published: true
-date: 2020-12-10T03:20:51.212Z
+date: 2020-12-10T13:59:41.003Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-10T03:05:13.088Z
 ---
 
 # Introduction
-This wiki is your XR Gamedev basics hub! Here we will detail the steps required for creating XR games in both Unity and Unreal engines (possibly other engines as well).
+This wiki is your XR Gamedev basics hub! 
+Here we will detail the steps required for creating XR games in both Unity and Unreal engines (possibly other engines as well).
 
 ## Who made this?
 This site was created by Skid Vis to help people learn how to make VR/XR games.
