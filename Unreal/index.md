@@ -9,4 +9,4 @@ dateCreated: 2020-12-10T03:55:06.138Z
 ---
 
 # Setup
-This folder contains details on setting up XR in the different versions of Unreal.
+This folder contains details on setting up XR in the different versions of Unreal Engine.
